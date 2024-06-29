@@ -1,0 +1,34 @@
+
+
+input{
+    width:  60%;
+    border: none;
+    border-radius: 10px;
+}
+.rj-btn{
+    width: 80px;
+}
+.row{
+    margin-bottom: 10px;
+}
+.item-container{
+    text-align: left;
+}
+.todo-container{
+    width: 100vw;
+    border: 2px solid black;
+    margin-top: 50px;
+    background: linear-gradient(to bottom, #ffd700, #ffcc00); 
+    border-radius: 10px;
+     
+
+}
+.container{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+.container input[type="text"],
+.container input[type="date"] {
+  text-align: center; /* Center-align the text inside input */
+}
